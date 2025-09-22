@@ -24,3 +24,6 @@ instructions: |
 reviews:
     path_filters:
         - "**/*.hlsl"
+    settings:
+        auto_title_placeholder: "@coderabbitai title"
+        auto_title_instructions: "Write a concise title summarizing the main change of this PR"
